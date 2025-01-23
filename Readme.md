@@ -1,5 +1,4 @@
 Material voltado a aprender como usar git e github
-algumas dicas: 
 
 Para subir um novo repositório:
 
@@ -27,7 +26,6 @@ git push -u origin main
 ```
 
 > Windows + v para colar o link entre outros
-> 
 
 Para um repositório que você vai mudar rapidinho:
 
@@ -44,3 +42,4 @@ git status  #pra ver se deu tudo certo
 ```
 
 Pra roubar algo seu ou do seu amiguinho:
+git clone
