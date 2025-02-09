@@ -3,7 +3,7 @@ Material para aprender como usar git e github
 Para subir um novo repositório:
 
 ```bash
-git init
+
 git init -b main
 
 git add .
@@ -13,8 +13,6 @@ git status  #(opicional obrigatório)
 git commit -m “nome da pasta”
 
 git status  #(opicional obrigatório)
-
-git branch -M “main”
 
 cria um repositório no github e pega o link
 
