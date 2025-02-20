@@ -8,11 +8,11 @@ git init -b main
 
 git add .
 
-git status  #(opicional obrigatório)
+git status  #(opicional)
 
 git commit -m “nome da pasta”
 
-git status  #(opicional obrigatório)
+git status  #(opicional)
 
 cria um repositório no github e pega o link
 
