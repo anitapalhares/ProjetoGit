@@ -39,5 +39,5 @@ git push
 git status  #pra ver se esta tudo certo
 ```
 
-Pra roubar algo seu ou do seu amiguinho:
+Pra roubar algo seu mesmo ou do seu amiguinho:
 git clone
