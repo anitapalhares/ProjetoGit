@@ -36,7 +36,7 @@ git commit -m "Nome da alteração”
 
 git push
 
-git status  #pra ver se deu tudo certo
+git status  #pra ver se esta tudo certo
 ```
 
 Pra roubar algo seu ou do seu amiguinho:
