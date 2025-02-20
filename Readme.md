@@ -23,7 +23,7 @@ git push -u origin main
 # telinha de login do git com o github 
 ```
 
-> Windows + v para colar o link entre outros (é o cntl c)
+> Windows + v para colar o link entre outros (é o ctrl c)
 
 Para um repositório que você vai mudar rapidinho:
 
