@@ -20,7 +20,7 @@ git remote add origin  <link>
 
 git push -u origin main
 
-# telinha de login
+# telinha de login do git com o github 
 ```
 
 > Windows + v para colar o link entre outros (é o cntl c)
