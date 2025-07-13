@@ -1,5 +1,7 @@
 Material para lembrar como usar git e github
 
+Veja mais no Curso da Alura ou com o vídeo da Rafaella Balerini
+
 Para subir um novo repositório:
 
 ```bash
