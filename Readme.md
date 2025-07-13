@@ -1,4 +1,4 @@
-Material para aprender como usar git e github
+Material para lembrar como usar git e github
 
 Para subir um novo repositório:
 
